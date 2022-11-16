@@ -241,7 +241,7 @@
 <properties>
     <mysql.version>8.0.11</mysql.version><!-- 5.1.40-->
     <jersey.version>2.26</jersey.version><!--2.23.1 -->
-    <jackson.version>2.9.4</jackson.version>
+    <jackson.version>2.12.7.1</jackson.version>
     <eclipselink.version>2.7.0</eclipselink.version><!-- 2.5.2 -->
     <jersey-bean-validation.version>2.26</jersey-bean-validation.version><!-- 2.23.1-->
     <guava.version>18.0</guava.version>
